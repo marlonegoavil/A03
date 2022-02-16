@@ -29,3 +29,7 @@ Because I have a mac, and downloading git is a different process, this tutorial 
 - **Pull** : fetching in changes and merging them
 - **Remote** : version of a repository or branch that is hosted on a server
 - **Repository** : contains all of the project files, and stores each file's revision history
+
+**Reference List**
+https://docs.github.com/en/get-started/quickstart/github-glossary
+https://njit.instructure.com/courses/21539/files/3171291?module_item_id=687962
